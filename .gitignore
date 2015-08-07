@@ -12,19 +12,21 @@
 
 #ignore all the docs obtianed from the internet
 
-Docs/Slides
-Docs/LectureNotes
-Docs/Papers
-Docs/Books
+
 *_ignore*
 study_material/
 TODO/
 ResearchPapers/
-
+CVPR/
 *.class
 *_test
-
-
+CMakeFiles/
+*CMake*
+docs/books
+docs/papers
+Report
+CVPR
+[A_Z][A-Za-z]*
 # Normal rules
 #
 .*
